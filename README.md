@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lalithkanna</h1>
 
 <h3 align="center">
-Full-Stack Developer • AI/ML Enthusiast • Software Engineer • Backend Developer
+Full-Stack Developer • AI/ML Enthusiast • Backend Developer
 </h3>
 
 <p align="center">
